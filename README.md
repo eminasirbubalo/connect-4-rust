@@ -12,8 +12,8 @@ The project was done as part of the IT 305 Programming Languages course at Inter
 
 ## Running the project
 
-1. Install the Rust programming language [on this link](https://www.scala-lang.org/download/). 
-2.git clone https://github.com/eminasirbubalo/connect-4-rust.git
+1. Install the Rust programming language [on this link](https://www.scala-lang.org/download/)
+2. git clone https://github.com/eminasirbubalo/connect-4-rust.git
 3. compile: $ rustc main.rs
 4. run: $ ./main
 
