@@ -6,16 +6,16 @@ The project was done as part of the IT 305 Programming Languages course at Inter
 
 
 ## Team members
-- [Emina Sirbubalo]((https://github.com/eminasirbubalo)
+- [Emina Sirbubalo](https://github.com/eminasirbubalo)
 - [Mak Alijevic](https://github.com/MakAlijevic)
 - [Denan Delic](https://github.com/delicdenan)
 
 ## Running the project
-```
+
 1. Install the Rust programming language [on this link](https://www.scala-lang.org/download/). 
 2.git clone https://github.com/eminasirbubalo/connect-4-rust.git
 3. compile and run : 
    $ rustc main.rs
    $ ./main
-```
+
 
